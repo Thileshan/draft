@@ -1,0 +1,37 @@
+GITHUB COMMONDS
+git init
+
+// error--- could not recognize git
+download 64 bit
+
+// hyperlink to online
+git remote add orgin then paste URL
+
+// online to local folder
+git pull
+
+// pulls whats in the main branch for the main branch
+git checkout main
+
+////////////////////////////////////////////////////
+
+Everything above is the step for github
+
+////////////////////////////////////////////////////
+
+//prep to push code to github
+git status
+
+// add all the files
+git add. 
+
+// check status to see if all the files where added
+git status
+
+// commit
+git commit -m "first Save"
+
+// pushing to onto the main branch on git hub
+git push
+
+
